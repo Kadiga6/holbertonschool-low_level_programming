@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - Entry point of the program
  *
  * Description: This function prints a specific string.
  *
