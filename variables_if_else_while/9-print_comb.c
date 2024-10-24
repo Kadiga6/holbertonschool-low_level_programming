@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 /**
   *main - Entry point
   *
@@ -8,12 +9,11 @@
 
 int main(void)
 {
-int n;
-int i = 0;
-for (n = 0; n <= 9; n++)
+int i;
+for (i = '0'; i <= '9'; i++)
 {
-putchar(n + '0');
-if (i != 9)
+putchar(i);
+if (i != '9')
 {
 putchar(',');
 putchar(' ');
