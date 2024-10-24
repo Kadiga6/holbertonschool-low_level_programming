@@ -19,7 +19,6 @@ putchar(',');
 putchar(' ');
 }
 }
-putchar('$');
 
 putchar('\n');
 
