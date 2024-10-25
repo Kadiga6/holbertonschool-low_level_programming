@@ -3,9 +3,8 @@
 
 
 /**
-  *main - Entry point
+  *print_alphabet - use prototype
   *
-  * Return:Always 0(Sucess)
   */
 
 void print_alphabet(void)
