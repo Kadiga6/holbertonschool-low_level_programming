@@ -27,5 +27,5 @@ for (i = start_index; i < length; i++)
 {
 _putchar(str[i]);
 }
-putchar('\n');
+_putchar('\n');
 }
